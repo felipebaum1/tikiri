@@ -350,7 +350,7 @@
                                 </span>
                             </a>
                         </div>
-                        <p class="box-title" >Statuses</p>
+                        <p class="box-title" >Status</p>
                     </div>
                 </div>
                                 
